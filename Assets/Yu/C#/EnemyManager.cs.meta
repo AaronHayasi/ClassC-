@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee342d9980c27e04486e606be0ef8450
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {instanceID: 0}
+  - bossPrefab: {instanceID: 0}
+  - bossSpawnPoint: {instanceID: 0}
+  - victoryPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
